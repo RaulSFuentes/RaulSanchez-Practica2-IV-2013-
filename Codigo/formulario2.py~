@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-from borraFicherosAntiguos import *
+from borrar import *
 from web import form
 import os.path
 from time import time
@@ -47,7 +47,7 @@ class Formulario:
                     
         f = open ("sugerencias.txt", "a")
  	f.write("%s : \n" % (form.d.nombre))
-	f.write("%s \n\n ---" % (form.d.sugerencia))
+	f.write("%s \n\n --- \n" % (form.d.sugerencia))
  	f.close()
  	f=open("sugerencias.txt")
  	texto = f.read()
