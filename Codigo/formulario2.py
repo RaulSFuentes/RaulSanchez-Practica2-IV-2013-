@@ -1,6 +1,6 @@
 #!/usr/bin/python
-#Raúl Sánchez Fuentes Practica 2 IV
-#Copyright (C) 2013  Raúl
+#Raul Sanchez Fuentes Practica 2 IV
+#Copyright (C) 2013  Raul
 
 #This program is free software: you can redistribute it and/or modify
 #it under the terms of the GNU General Public License as published by

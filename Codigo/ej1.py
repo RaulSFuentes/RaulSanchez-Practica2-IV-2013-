@@ -1,6 +1,7 @@
 #!/usr/bin/python
-#Raúl Sánchez Fuentes Practica 2 IV
-#Copyright (C) 2013  Raúl
+
+#Raul Sanchez Fuentes Practica 2 IV
+#Copyright (C) 2013  Raul
 
 #This program is free software: you can redistribute it and/or modify
 #it under the terms of the GNU General Public License as published by
@@ -31,7 +32,7 @@ app = web.application(urls, globals())
 def notfound():
     return web.notfound("Lo siento, la p&aacute;gina que buscas no existe. Prueba con /formulario")
 
-# Asignamos el gestor del not found de la aplicación web a la función anterior
+# Asignamos el gestor del not found de la aplicacion web a la funcion anterior
 app.notfound = notfound
 
 if __name__ == "__main__":
