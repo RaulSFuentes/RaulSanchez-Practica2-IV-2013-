@@ -65,7 +65,7 @@ Una vez tenemos todo instalado ya podemos pasar a crear nuestra aplicación. El 
 
 Una vez creada la aplicación procedemos a lanzarla:
 
-![IV](https://dl.dropboxusercontent.com/s/48olmeh76h14mz8/p2.5.png)
+![IV](https://dl.dropboxusercontent.com/s/tdur1jdekiuxx8i/p2.10.png)
 
 Rellenamos los datos que nos piden para la sugerencia:
 
